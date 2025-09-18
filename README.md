@@ -1,1 +1,2 @@
 # Lumo-ai-bot
+Lumo is a mini voice assistant built using the ESP32 microcontroller. Similar to Alexa or Google Assistant, it listens for a wake word, captures voice commands, processes them using cloud-based Speech-to-Text (STT), and responds with Text-to-Speech (TTS). It can also control connected hardware like LEDs or respond with information (time, greetings, etc.)
